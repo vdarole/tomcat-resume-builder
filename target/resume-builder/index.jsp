@@ -66,7 +66,7 @@
       <button type="submit" formaction="save" style="background:green;color:white;">Save</button>
       <a href="list" class="button">View Saved Resumes</a>
     </div>
-<p> GIT Publish Date: 9 Oct 2025 16:30 </p>
+<p> GIT Publish Date: 08 Jan 2026 19:50 </p>
 
   </form>
 </div>
